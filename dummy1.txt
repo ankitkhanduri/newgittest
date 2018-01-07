@@ -1,4 +1,6 @@
-Creating a merget conflict knowingly.This is file 1 to be used for changes to be made while uploading it 
+Doing changes for branch
+
+This is file 1 to be used for changes to be made while uploading it 
 
 
 Now i have made some changes into the file.This is to be uploaded as changes 2
