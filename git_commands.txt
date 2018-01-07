@@ -1,0 +1,19 @@
+## commands to be worked in directory for git directory ##
+
+git clone
+
+git status 
+
+git add <file_name>
+
+git commit 
+
+git push 
+
+git pull
+
+git branch 
+
+git brach <branch_name>
+
+git checkout <branch_name>
